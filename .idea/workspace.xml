@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3858a5b0-62a9-403a-a697-fa15c3fc625b" name="Changes" comment="Configuración inicial del proyecto KataTDD">
-      <change beforePath="$PROJECT_DIR$/src/logica/Conjunto.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/logica/Conjunto.py" afterDir="false" />
-    </list>
+    <list default="true" id="3858a5b0-62a9-403a-a697-fa15c3fc625b" name="Changes" comment="Configuración inicial del proyecto KataTDD" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
